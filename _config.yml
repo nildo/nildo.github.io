@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Nildo
 tagline:          'A Jekyll theme'
-description:      "A computer scientist living in Belo Horizonte, Brazil. Doing my Master\'s at <a href='http://ufmg.br' target='_blank'>UFMG</a>. Researching here and there."
+description:      "A student living in Belo Horizonte, Brazil. Doing my Master\'s at <a href='http://ufmg.br' target='_blank'>UFMG</a>, trying to make some science out of computers."
 url:              http://nildo.me
 baseurl:          /
 
@@ -17,7 +17,8 @@ author:
   name:           'Nildo Júnior'
   url:            https://twitter.com/nildojunior
 
-paginate:         5
+paginate:         2
+paginate_path:    "/blog/page:num"
 
 # Custom vars
 version:          2.1.0
