@@ -3,8 +3,9 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+# permalink:        pretty
+permalink: /blog/:categories/:year/:month/:day/:title.html
+#relative_permalinks: true
 
 # Setup
 title:            Nildo
@@ -15,13 +16,9 @@ baseurl:          /
 
 author:
   name:           'Nildo Júnior'
-  url:            https://twitter.com/nildojunior
+  url:            http://nildo.me
 
 paginate:         2
 paginate_path:    "/blog/page:num"
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde

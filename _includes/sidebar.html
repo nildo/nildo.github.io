@@ -26,11 +26,18 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <a class="sidebar-nav-item{% if page.url == '/blog/' %} active{% endif %}" href="/blog/">Blog</a>
     </nav>
-
-    <p>!&copy; {{ site.time | date: '%Y' }}. No copyright intended.</p>
+    <nav class="sidebar-nav">
+      <div class="sidebar-nav-item">Through the internet:</div>
+      <div class="sidebar-nav social-icons"/>
+        <a href="http://facebook.com/nildojunior" target="_blank" class="fontawesome-facebook"></a>
+        <a href="http://twitter.com/nildojunior" target="_blank" class="fontawesome-twitter"></a>
+        <a href="https://plus.google.com/118260818121028807255/" target="_blank" class="fontawesome-google-plus"></a>
+        <a href="http://instagram.com/nildojnr" target="_blank" class="fontawesome-camera-retro"></a>
+        <a href="http://github.com/nildo" target="_blank" class="fontawesome-github"></a>
+        <a href="https://br.linkedin.com/in/nildojr" target="_blank" class="fontawesome-linkedin"></a>
+      </div>
+    </nav>
   </div>
 </div>
