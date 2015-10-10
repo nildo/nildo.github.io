@@ -9,7 +9,7 @@ permalink: /blog/:categories/:year/:month/:day/:title.html
 
 # Setup
 title:            Nildo
-tagline:          'A Jekyll theme'
+tagline:          'My hello to the world!'
 description:      "A student living in Belo Horizonte, Brazil. Doing my Master\'s at <a href='http://ufmg.br' target='_blank'>UFMG</a>, trying to make some science out of computers."
 url:              http://nildo.me
 baseurl:          /
