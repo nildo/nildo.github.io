@@ -3,9 +3,13 @@ layout: page
 title: Resume
 ---
 
-[Download in PDF](/files/resume-nildo.pdf)
+[\[Download in PDF\]](/files/resume-nildo.pdf)
+
+---
 
 # Nildo dos Santos Ribeiro Júnior
+
+---
 
 ## Education
 
@@ -23,6 +27,8 @@ title: Resume
 
 - Technical Course of Industrial Informatics (2008 - 2010)
 
+---
+
 ## Experience
 
 #### Tarana Wireless, Berkeley, CA
@@ -31,19 +37,28 @@ title: Resume
  - Developed software for a new generation of wireless transport solution
  - Designed and developed hardware tests on a embedded system's boot loader
 
+
+---
+
 ## Skills
 
 - C/C++, Java, Python, PHP, Javascript, HTML, CSS, MySQL
 
+---
+
 ## Languages
 
 - Native Portuguese, Advanced English
+
+---
 
 ## Honors
 
 - Gold Medal at the 6th Brazilian Mathematical Olympiad of Public Schools
 - Silver Medal at the 2010 Brazilian Robotics Olympiad, Duathlon Modality
 - Bronze Medal at 12th Brazilian Informatics Olympiad
+
+---
 
 ## Extra-curricular activities
 
@@ -60,6 +75,8 @@ title: Resume
 #### Research Project: Relevance Rating of Geospatial and Thematic Indicators in the Internet
 - Junior Scientific Initiation Program
 - Advisor: Leonardo Lacerda Alves (Cefet-MG, 2010)
+
+---
 
 ## Publication
 
