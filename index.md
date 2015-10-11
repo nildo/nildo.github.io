@@ -7,4 +7,8 @@ title: Home
 
 # Hello, there!
 
- I'm Nildo (the one on the photo above(just don't put your cursor over it (I really feel like parenthesising! (and I don't even program in Lisp)))), and this is my personal website. Welcome! Fell free to explore it as you like. I think I have a good sense of humor, but the rest of the website is serious. Check it out. And feel free to stalk me around the Internet. You might need to know a little bit of Portuguese.
+ I'm Nildo (the one on the photo above (just don't put your cursor over it (I really feel like parenthesizing! (and I don't even program in Lisp)))), and this is my personal website. Welcome! Fell free to explore it as you like.
+
+ I think I have a good sense of humor, but the rest of the website is serious. Check it out. And feel free to stalk me around the Internet. You might need to know a little bit of Portuguese.
+
+ By the way, credit for the photo(s) goes to [Dan Garcia](http://www.cs.berkeley.edu/~ddgarcia/).
