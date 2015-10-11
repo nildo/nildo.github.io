@@ -3,6 +3,8 @@ layout: page
 title: Resume
 ---
 
+[Download in PDF](/files/resume-nildo.pdf)
+
 # Nildo dos Santos Ribeiro Júnior
 
 ## Education
