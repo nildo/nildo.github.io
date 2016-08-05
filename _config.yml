@@ -1,16 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Nildo
+description: A student living in Belo Horizonte, Brazil. Doing my Master's and trying to make some science out of computers
+meta_description: "Nildo dos Santos Ribeiro Junior, Computer Science, Education"
 
 markdown: kramdown
 highlighter: pygments
-logo: false
-paginate: 15
+logo: true
+paginate: 1
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.nildo.me'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://www.nildo.me/blog/'
+author:         'Nildo Júnior'
+
+permalink: /blog/:categories/:year/:month/:day/:title.html
+paginate_path: "/blog/page:num"

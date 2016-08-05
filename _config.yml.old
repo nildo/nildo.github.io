@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+permalink: /blog/:categories/:year/:month/:day/:title.html
+#relative_permalinks: true
+
+# Setup
+title:            Nildo
+tagline:          'My hello to the world!'
+description:      "A student living in Belo Horizonte, Brazil. Doing my Master\'s and trying to make some science out of computers."
+url:              http://nildo.me
+baseurl:          /
+
+author:
+  name:           'Nildo dos Santos Ribeiro Júnior'
+  url:            http://nildo.me
+
+paginate:         2
+paginate_path:    "/blog/page:num"
+
+# Custom vars
